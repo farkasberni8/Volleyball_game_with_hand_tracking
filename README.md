@@ -18,5 +18,7 @@ Enjoy the game!🏆
 <img src="https://github.com/farkasberni8/Volleyball_game_with_hand_tracking/blob/6d15f5c99d2e0f8f10330073d74ec777c4bf4c43/inputs/volleyball_game_diagaram.png" width="700" height="430"/>
 </p>
 <br><br>
-🦕 Collaborator: <a href="https://github.com/AlexandruLuncan18"> Alexandru Luncan </a>
-
+<p>
+<p align="center">
+Collaborator: <a href="https://github.com/AlexandruLuncan18"> Alexandru Luncan 🦕 </a>
+</p>
