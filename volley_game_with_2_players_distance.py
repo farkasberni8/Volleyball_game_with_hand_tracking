@@ -427,10 +427,10 @@ if __name__ == "__main__" :
     start = cv2.resize(start, (640,480))
     cv2.imshow('Volley Game', start)
 
-    host_ip = '10.115.73.36'
-    port=1024
+    host_ip = '**.***.**.**'
+    port = 1234
     socket_address = (host_ip, port)
-    s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+    s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
     s.bind(socket_address)
     s.listen(100)
     print("Listening at: ", socket_address)
